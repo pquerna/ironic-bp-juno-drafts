@@ -12,9 +12,9 @@ Following the pattern of the Neutron/Network additions, for `JUNO` or later vers
 
 An example response:
 
-```json
+```javascript
 {
-	...
+	// other metadata fields
 	'volume_data': [
 		{
 			'id': '1234'
